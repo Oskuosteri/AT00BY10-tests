@@ -2,7 +2,7 @@
 
 This repository contains my testing work for the AT00BY10 JavaScript library.
 
-The goal of this project was to create unit tests, set up a CI pipeline using GitHub Actions, and track code coverage with Coveralls.
+The goal of this project was to create unit tests, set up a CI pipeline using GitHub Actions, and track code coverage with Coveralls. Ai helped with Issues report, README and other texts
 
 ## What I did
 
@@ -18,3 +18,7 @@ Install dependencies:
 
 ```bash
 npm install
+
+
+
+
