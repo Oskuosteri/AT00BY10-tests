@@ -1,5 +1,4 @@
 import { describe, it, expect } from 'vitest'
-
 import add from '../src/add.js'
 import capitalize from '../src/capitalize.js'
 import chunk from '../src/chunk.js'
@@ -21,6 +20,7 @@ import isBoolean from '../src/isBoolean.js'
 import isBuffer from '../src/isBuffer.js'
 import isDate from '../src/isDate.js'
 import isEmpty from '../src/isEmpty.js'
+// kommentti Coveralls commitille
 
 describe('basic tests', () => {
   it('add works', () => {

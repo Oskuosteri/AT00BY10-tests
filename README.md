@@ -1,13 +1,20 @@
-# Student template
+# AT00BY10 Testing Project
 
-## Purpose of this repository
+This repository contains my testing work for the AT00BY10 JavaScript library.
 
-This is a project template for students participating in Software Testing course
-at LAB University of Applied Sciences.
+The goal of this project was to create unit tests, set up a CI pipeline using GitHub Actions, and track code coverage with Coveralls.
 
-The repository only contains the source code that is under testing, `package.json` skeleton
-and LICENSE file.
+## What I did
 
-Source code folder contains a separate license file that must **NOT** be removed under any circumstances!
-Removing this license file directly violates terms and conditions of the software under testing.
-Individuals who remove or modify the license file will also carry the consequences.
+- Wrote unit tests using Vitest
+- Set up a GitHub Actions workflow to run tests automatically
+- Integrated Coveralls to track test coverage
+- Reached over 60% test coverage
+
+
+## How to run the tests
+
+Install dependencies:
+
+```bash
+npm install
